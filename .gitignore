@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+myvenv/
+.venv/
+
+# Uploads / media
+backend/uploads/
+
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.packages
+
+# OS
+.DS_Store
+Thumbs.db
